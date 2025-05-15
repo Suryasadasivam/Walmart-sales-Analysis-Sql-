@@ -1,4 +1,4 @@
-# Walmart-sales-Analysis-Sql-
+# Walmart-sales-Analysis-Sql
 
 - Purposes Of The Project 
   
